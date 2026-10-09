@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "About Us | Pestraid Cleaning Kenya",
   description:
-    "Learn about Pestraid Cleaning Kenya — a proud member of the Pestraid Kenya Group. Professional cleaning services in Nairobi since 2018. Our mission, values, and team.",
+    "Learn about Pestraid Cleaning Kenya - a proud member of the Pestraid Kenya Group. Professional cleaning services in Nairobi since 2018. Our mission, values, and team.",
   alternates: { canonical: "https://pestraidcleaning.co.ke/about" },
 };
 
@@ -19,7 +19,7 @@ const team = [
 const values = [
   { icon: "💚", title: "Integrity", desc: "We are honest, transparent and trustworthy in all our dealings with clients and partners." },
   { icon: "🌿", title: "Eco-Responsibility", desc: "We use environmentally safe products and sustainable practices to protect our planet." },
-  { icon: "⭐", title: "Excellence", desc: "We hold ourselves to the highest standards of cleaning quality — always exceeding expectations." },
+  { icon: "⭐", title: "Excellence", desc: "We hold ourselves to the highest standards of cleaning quality - always exceeding expectations." },
   { icon: "🤝", title: "Community", desc: "We invest in local talent and support the communities in which we operate across Nairobi." },
 ];
 
@@ -48,7 +48,7 @@ export default function AboutPage() {
             Cleaning Nairobi, <span style={{ color: "#f9c923" }}>One Space</span> at a Time
           </h1>
           <p className="text-xl text-green-100 max-w-2xl mx-auto">
-            Part of the trusted Pestraid Kenya Group — delivering professional,
+            Part of the trusted Pestraid Kenya Group - delivering professional,
             eco-friendly cleaning services since 2018.
           </p>
         </div>
@@ -65,7 +65,7 @@ export default function AboutPage() {
             <div className="space-y-4 text-gray-500 leading-relaxed">
               <p>
                 Pestraid Cleaning Kenya was established as a natural extension of
-                the <a href="https://pestraid.co.ke/" target="_blank" rel="noopener noreferrer" className="text-brand-green font-semibold hover:underline">Pestraid Kenya Group</a> — a group already deeply
+                the <a href="https://pestraid.co.ke/" target="_blank" rel="noopener noreferrer" className="text-brand-green font-semibold hover:underline">Pestraid Kenya Group</a> - a group already deeply
                 trusted across Nairobi for expert pest control and{" "}
                 <a href="https://www.termitescontrolservices.co.ke/" target="_blank" rel="noopener noreferrer" className="text-brand-green font-semibold hover:underline">termite control services</a>.
               </p>
@@ -79,7 +79,7 @@ export default function AboutPage() {
               <p>
                 Today, with over 500 satisfied clients and a team of 15+
                 professionally trained cleaners, we're proud to be one of
-                Nairobi's most trusted cleaning companies — based on Argwings
+                Nairobi's most trusted cleaning companies - based on Argwings
                 Kodhek Road, Rose Avenue, serving the entire city and beyond.
               </p>
             </div>
@@ -212,7 +212,7 @@ export default function AboutPage() {
           <p className="text-gray-500 mb-8">
             <strong>Argwings Kodhek Road, Rose Ave, Nairobi, Kenya</strong>
             <br />
-            Mon–Fri: 8am–6pm &nbsp;|&nbsp; Saturday: 8am–3pm
+            Mon-Fri: 8am-6pm &nbsp;|&nbsp; Saturday: 8am-3pm
           </p>
           <div className="rounded-3xl overflow-hidden shadow-2xl border border-gray-100">
             <iframe

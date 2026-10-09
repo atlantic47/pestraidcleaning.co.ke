@@ -38,7 +38,7 @@ export default function Navbar() {
           id="navbar-logo"
         >
           <div className="relative flex items-center gap-2">
-            {/* Real logo — inverted to white when on dark hero, normal on white navbar */}
+            {/* Real logo - inverted to white when on dark hero, normal on white navbar */}
             <Image
               src="/logo-pestraid.png"
               alt="Pestraid Cleaning Kenya logo"

@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Cleaning Services Nairobi | Pestraid Cleaning Kenya",
   description:
-    "Explore all professional cleaning services by Pestraid Cleaning Kenya — home cleaning, office cleaning, carpet & sofa cleaning, post-construction cleaning, and deep cleaning in Nairobi.",
+    "Explore all professional cleaning services by Pestraid Cleaning Kenya - home cleaning, office cleaning, carpet & sofa cleaning, post-construction cleaning, and deep cleaning in Nairobi.",
   alternates: { canonical: "https://pestraidcleaning.co.ke/services" },
 };
 
@@ -16,7 +16,7 @@ const services = [
     title: "Home Cleaning",
     subtitle: "Residential Cleaning Services",
     description:
-      "Our expert home cleaning teams deliver a thorough, top-to-bottom clean of your entire residence. Whether you need a one-off spring clean or a regular weekly/monthly service, we tailor our approach to your home and lifestyle. We clean kitchens, bathrooms, living areas, bedrooms, and all surfaces — leaving your home fresh, hygienic, and sparkling.",
+      "Our expert home cleaning teams deliver a thorough, top-to-bottom clean of your entire residence. Whether you need a one-off spring clean or a regular weekly/monthly service, we tailor our approach to your home and lifestyle. We clean kitchens, bathrooms, living areas, bedrooms, and all surfaces - leaving your home fresh, hygienic, and sparkling.",
     img: "/home-cleaning.jpg",
     features: [
       "Kitchen deep cleaning including appliances",
@@ -50,7 +50,7 @@ const services = [
     title: "Carpet & Sofa Cleaning",
     subtitle: "Upholstery & Fabric Cleaning",
     description:
-      "Restore life to your carpets, rugs, and upholstered furniture with our professional hot-water extraction and steam cleaning process. We eliminate deep-seated dirt, allergens, bacteria, and stubborn stains — leaving your fabrics hygienic, fresh-smelling, and revived to near-new condition without damaging fibres.",
+      "Restore life to your carpets, rugs, and upholstered furniture with our professional hot-water extraction and steam cleaning process. We eliminate deep-seated dirt, allergens, bacteria, and stubborn stains - leaving your fabrics hygienic, fresh-smelling, and revived to near-new condition without damaging fibres.",
     img: "/carpet-cleaning.jpg",
     features: [
       "Hot water extraction (steam cleaning)",
@@ -67,7 +67,7 @@ const services = [
     title: "Post-Construction Cleaning",
     subtitle: "After-Build & Renovation Cleaning",
     description:
-      "Newly built or renovated spaces require specialist cleaning before they're ready to occupy. Our post-construction cleaning teams remove cement dust, paint splatter, adhesive residue, sawdust, and all construction debris — transforming your new space into a spotless, move-in ready environment quickly and efficiently.",
+      "Newly built or renovated spaces require specialist cleaning before they're ready to occupy. Our post-construction cleaning teams remove cement dust, paint splatter, adhesive residue, sawdust, and all construction debris - transforming your new space into a spotless, move-in ready environment quickly and efficiently.",
     img: "/construction-cleaning.jpg",
     features: [
       "Dust and debris removal throughout",
@@ -101,7 +101,7 @@ const services = [
     title: "Sofa & Upholstery Cleaning",
     subtitle: "Specialist Fabric Restoration",
     description:
-      "Your sofas and upholstered furniture accumulate dust, allergens, bacteria, and stains over time. Our specialist upholstery cleaning service uses industry-approved techniques and cleaning agents to safely deep clean all fabric types — leather, suede, microfibre, and more — without causing any damage.",
+      "Your sofas and upholstered furniture accumulate dust, allergens, bacteria, and stains over time. Our specialist upholstery cleaning service uses industry-approved techniques and cleaning agents to safely deep clean all fabric types - leather, suede, microfibre, and more - without causing any damage.",
     img: "/carpet-cleaning.jpg",
     features: [
       "Leather sofa cleaning and conditioning",

@@ -99,7 +99,7 @@ export default function ContactPage() {
                 {
                   icon: "⏰",
                   label: "Working Hours",
-                  value: "Mon–Fri: 8am–6pm | Sat: 8am–3pm",
+                  value: "Mon-Fri: 8am-6pm | Sat: 8am-3pm",
                   href: null,
                 },
               ].map((item) => (
@@ -267,7 +267,7 @@ export default function ContactPage() {
                       rows={4}
                       value={formData.message}
                       onChange={handleChange}
-                      placeholder="Tell us more about your cleaning needs — size of space, frequency, specific requirements..."
+                      placeholder="Tell us more about your cleaning needs - size of space, frequency, specific requirements..."
                       className="w-full px-4 py-3 rounded-xl border border-gray-200 focus:outline-none focus:border-brand-green focus:ring-2 focus:ring-brand-green/20 transition-all text-gray-900 placeholder-gray-300 resize-none"
                     />
                   </div>

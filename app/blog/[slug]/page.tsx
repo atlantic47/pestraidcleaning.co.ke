@@ -194,8 +194,12 @@ export default async function BlogPostPage({ params }: Props) {
       />
 
       {/* Hero */}
-      <section className="relative pt-32 pb-0 overflow-hidden">
-        <div className="relative h-72 sm:h-96 overflow-hidden">
+      <section
+        className="relative min-h-[70vh] flex items-end overflow-hidden"
+        style={{ background: "linear-gradient(135deg, #1b5e20 0%, #2e7d32 60%, #43a047 100%)" }}
+      >
+        {/* Background image with overlay */}
+        <div className="absolute inset-0">
           <Image
             src={post.image}
             alt={post.title}
@@ -206,24 +210,34 @@ export default async function BlogPostPage({ params }: Props) {
           />
           <div
             className="absolute inset-0"
-            style={{ background: "linear-gradient(to bottom, rgba(13,59,19,0.7) 0%, rgba(13,59,19,0.9) 100%)" }}
+            style={{ background: "linear-gradient(to bottom, rgba(13,59,19,0.55) 0%, rgba(13,59,19,0.92) 70%, rgba(13,59,19,1) 100%)" }}
           />
-          <div className="absolute inset-0 flex items-end pb-10 px-4 sm:px-6">
-            <div className="max-w-4xl mx-auto w-full">
-              <div className="flex flex-wrap gap-2 mb-4">
-                <span className="bg-brand-yellow text-black text-xs font-bold px-3 py-1 rounded-full">
-                  {post.category}
-                </span>
-                {post.tags.slice(0, 3).map((tag) => (
-                  <span key={tag} className="bg-white/20 text-white text-xs font-medium px-3 py-1 rounded-full">
-                    #{tag}
-                  </span>
-                ))}
-              </div>
-              <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-white font-display leading-tight">
-                {post.title}
-              </h1>
-            </div>
+        </div>
+
+        {/* Content - sits at the bottom of the hero, below the navbar */}
+        <div className="relative z-10 w-full max-w-4xl mx-auto px-4 sm:px-6 pt-40 pb-12">
+          <div className="flex flex-wrap gap-2 mb-5">
+            <span className="bg-brand-yellow text-black text-xs font-bold px-3 py-1.5 rounded-full">
+              {post.category}
+            </span>
+            {post.tags.slice(0, 3).map((tag) => (
+              <span key={tag} className="bg-white/20 backdrop-blur-sm text-white text-xs font-medium px-3 py-1.5 rounded-full border border-white/20">
+                #{tag}
+              </span>
+            ))}
+          </div>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white font-display leading-tight mb-4">
+            {post.title}
+          </h1>
+          <div className="flex items-center gap-4 text-green-300 text-sm">
+            <span className="flex items-center gap-2">
+              <span className="w-6 h-6 rounded-full bg-brand-yellow flex items-center justify-center text-black text-xs font-bold">{post.author[0]}</span>
+              {post.author}
+            </span>
+            <span>·</span>
+            <span>{post.date}</span>
+            <span>·</span>
+            <span>{post.readTime}</span>
           </div>
         </div>
       </section>
@@ -282,7 +296,7 @@ export default async function BlogPostPage({ params }: Props) {
                 Need Professional Cleaning in Nairobi?
               </h3>
               <p className="text-green-200 mb-6">
-                Pestraid Cleaning Kenya — Argwings Kodhek Road, Rose Ave, Nairobi.
+                Pestraid Cleaning Kenya - Argwings Kodhek Road, Rose Ave, Nairobi.
                 Call us for a free quote!
               </p>
               <div className="flex flex-col sm:flex-row gap-3 justify-center">

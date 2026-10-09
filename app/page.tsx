@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title:
     "Pestraid Cleaning Kenya | Professional Cleaning Services Nairobi #1",
   description:
-    "Pestraid Cleaning Kenya — Nairobi's top-rated professional cleaning company. Expert home cleaning, office cleaning, carpet cleaning, sofa cleaning, deep cleaning & post-construction cleaning. Serving Kilimani, Westlands, Karen, Lavington & all Nairobi areas. Call 0710 907 628 for a FREE quote today!",
+    "Pestraid Cleaning Kenya - Nairobi's top-rated professional cleaning company. Expert home cleaning, office cleaning, carpet cleaning, sofa cleaning, deep cleaning & post-construction cleaning. Serving Kilimani, Westlands, Karen, Lavington & all Nairobi areas. Call 0710 907 628 for a FREE quote today!",
   keywords: [
     "cleaning services Nairobi",
     "professional house cleaning Nairobi",
@@ -30,7 +30,7 @@ const services = [
     id: "home-cleaning",
     icon: "🏠",
     title: "Home & House Cleaning",
-    desc: "Thorough residential cleaning tailored to your lifestyle — kitchens, bathrooms, bedrooms, living rooms and more. One-off or regular cleans available.",
+    desc: "Thorough residential cleaning tailored to your lifestyle - kitchens, bathrooms, bedrooms, living rooms and more. One-off or regular cleans available.",
     img: "/home-cleaning.jpg",
     href: "/services#home-cleaning",
     features: ["Kitchens & bathrooms", "Bedrooms & living rooms", "Move-in/move-out cleans", "Weekly or monthly schedules"],
@@ -39,7 +39,7 @@ const services = [
     id: "office-cleaning",
     icon: "🏢",
     title: "Office & Commercial Cleaning",
-    desc: "Keep your workspace pristine and your team productive. We work around your schedule — early morning, evening or weekends — for zero disruption.",
+    desc: "Keep your workspace pristine and your team productive. We work around your schedule - early morning, evening or weekends - for zero disruption.",
     img: "/office-cleaning.jpg",
     href: "/services#office-cleaning",
     features: ["Open-plan offices", "Reception & common areas", "Washrooms & pantries", "Flexible scheduling"],
@@ -90,7 +90,7 @@ const testimonials = [
     id: "testimonial-sarah",
     name: "Sarah Kamau",
     role: "Property Developer, Kilimani",
-    text: "Outstanding post-construction cleaning service! They handled a massive job efficiently. The attention to detail was impressive — the site was spotless and handover-ready. Will definitely use again.",
+    text: "Outstanding post-construction cleaning service! They handled a massive job efficiently. The attention to detail was impressive - the site was spotless and handover-ready. Will definitely use again.",
     stars: 5,
   },
   {
@@ -111,24 +111,24 @@ const testimonials = [
     id: "testimonial-peter",
     name: "Peter Kariuki",
     role: "Corporate Facilities Manager",
-    text: "Managing facilities for a large corporate campus requires a dependable cleaning partner. Pestraid delivers every time — professional staff, quality products and zero complaints from our team.",
+    text: "Managing facilities for a large corporate campus requires a dependable cleaning partner. Pestraid delivers every time - professional staff, quality products and zero complaints from our team.",
     stars: 5,
   },
 ];
 
 const whyUs = [
   { icon: "✅", title: "Fully Vetted & Trained Staff", desc: "All our cleaners are background-checked, professionally trained, uniformed and supervised to ensure consistent high-quality results every visit." },
-  { icon: "🌿", title: "Eco-Friendly Cleaning Products", desc: "We use safe, non-toxic, biodegradable cleaning agents that are gentle on your family, pets and the environment — yet highly effective on dirt and bacteria." },
-  { icon: "⏰", title: "Flexible Scheduling", desc: "Morning, afternoon, evening or weekend appointments — we work around your busy schedule. One-off or regular contracts available for homes and businesses." },
+  { icon: "🌿", title: "Eco-Friendly Cleaning Products", desc: "We use safe, non-toxic, biodegradable cleaning agents that are gentle on your family, pets and the environment - yet highly effective on dirt and bacteria." },
+  { icon: "⏰", title: "Flexible Scheduling", desc: "Morning, afternoon, evening or weekend appointments - we work around your busy schedule. One-off or regular contracts available for homes and businesses." },
   { icon: "💰", title: "Transparent, Competitive Pricing", desc: "No hidden costs. Get a detailed, itemised quote upfront with no surprises on the invoice. We offer great value without compromising on quality." },
   { icon: "🛡️", title: "Fully Insured Service", desc: "Our cleaning service is fully insured, giving you complete peace of mind. Your property and belongings are in safe hands with Pestraid Cleaning Kenya." },
-  { icon: "🏆", title: "Satisfaction Guaranteed", desc: "Not happy with any aspect of our clean? We'll come back and fix it — free of charge. Your complete satisfaction is our number one priority." },
+  { icon: "🏆", title: "Satisfaction Guaranteed", desc: "Not happy with any aspect of our clean? We'll come back and fix it - free of charge. Your complete satisfaction is our number one priority." },
 ];
 
 const process = [
   { step: "01", title: "Get a Free Quote", desc: "Call, WhatsApp or fill in our online form. We'll give you a clear, itemised quote with no obligation and no hidden fees.", icon: "📞" },
-  { step: "02", title: "Schedule Your Clean", desc: "Choose a time that suits you — morning, afternoon, evening or weekend. We confirm your booking and send a reminder.", icon: "📅" },
-  { step: "03", title: "We Clean, You Relax", desc: "Our professional team arrives on time, fully equipped with all cleaning materials. You can stay or leave — we handle everything.", icon: "✨" },
+  { step: "02", title: "Schedule Your Clean", desc: "Choose a time that suits you - morning, afternoon, evening or weekend. We confirm your booking and send a reminder.", icon: "📅" },
+  { step: "03", title: "We Clean, You Relax", desc: "Our professional team arrives on time, fully equipped with all cleaning materials. You can stay or leave - we handle everything.", icon: "✨" },
   { step: "04", title: "Enjoy Your Clean Space", desc: "Inspect our work. We welcome your feedback and offer a free re-clean guarantee if anything isn't up to your standards.", icon: "🏠" },
 ];
 
@@ -158,7 +158,7 @@ const faqs = [
   {
     id: "faq-4",
     q: "Do you offer regular weekly or monthly cleaning contracts?",
-    a: "Yes. We offer flexible regular cleaning contracts for both homes and businesses — weekly, bi-weekly or monthly. Regular clients enjoy priority scheduling and preferential rates.",
+    a: "Yes. We offer flexible regular cleaning contracts for both homes and businesses - weekly, bi-weekly or monthly. Regular clients enjoy priority scheduling and preferential rates.",
   },
   {
     id: "faq-5",
@@ -168,7 +168,7 @@ const faqs = [
   {
     id: "faq-6",
     q: "How long does a professional home clean take?",
-    a: "A standard 2-bedroom home typically takes 2–4 hours with a team of 2 cleaners. Larger homes, deep cleans or post-construction cleans take longer. We'll give you an accurate time estimate when you book.",
+    a: "A standard 2-bedroom home typically takes 2-4 hours with a team of 2 cleaners. Larger homes, deep cleans or post-construction cleans take longer. We'll give you an accurate time estimate when you book.",
   },
 ];
 
@@ -184,7 +184,7 @@ export default function HomePage() {
         <div className="absolute inset-0">
           <Image
             src="/hero-banner.jpg"
-            alt="Pestraid Cleaning Kenya — professional cleaning team in Nairobi"
+            alt="Pestraid Cleaning Kenya - professional cleaning team in Nairobi"
             fill priority sizes="100vw"
             className="object-cover"
             fetchPriority="high"
@@ -213,7 +213,7 @@ export default function HomePage() {
 
           <p className="text-lg sm:text-xl text-green-100 max-w-3xl mx-auto mb-4 leading-relaxed">
             Pestraid Cleaning Kenya delivers expert, eco-friendly cleaning services across all Nairobi
-            neighbourhoods — homes, offices, carpets, sofas and post-construction sites.
+            neighbourhoods - homes, offices, carpets, sofas and post-construction sites.
           </p>
           <p className="text-base text-green-200 max-w-2xl mx-auto mb-10">
             Trusted by <strong className="text-white">500+ clients</strong> across Kilimani, Westlands, Karen, Lavington, Parklands &amp; beyond.
@@ -293,7 +293,7 @@ export default function HomePage() {
                   Whether you need a one-off deep clean, regular domestic help, or a full post-construction clean for your new build, we have the expertise to get the job done right.
                 </p>
                 <p>
-                  We are proud of our <strong>100% satisfaction guarantee</strong> — if you are not completely happy, we come back and re-clean at no extra cost. That's the Pestraid promise.
+                  We are proud of our <strong>100% satisfaction guarantee</strong> - if you are not completely happy, we come back and re-clean at no extra cost. That's the Pestraid promise.
                 </p>
               </div>
               <div className="mt-8 flex flex-wrap gap-4">
@@ -328,7 +328,7 @@ export default function HomePage() {
               Professional <span className="text-gradient">Cleaning Services</span> in Nairobi
             </h2>
             <p className="text-gray-500 max-w-2xl mx-auto text-lg">
-              From single-room cleans to full commercial premises — Pestraid Cleaning Kenya has a tailored solution
+              From single-room cleans to full commercial premises - Pestraid Cleaning Kenya has a tailored solution
               for every residential and business cleaning need across Nairobi.
             </p>
           </div>
@@ -480,7 +480,7 @@ export default function HomePage() {
               What Our Clients Say
             </h2>
             <p className="text-green-200 mt-3 max-w-lg mx-auto">
-              Over 500 happy clients across Nairobi trust Pestraid Cleaning Kenya — here are some of their stories.
+              Over 500 happy clients across Nairobi trust Pestraid Cleaning Kenya - here are some of their stories.
             </p>
           </div>
 
@@ -511,7 +511,7 @@ export default function HomePage() {
 
           <div className="mt-12 text-center">
             <a href="tel:+254710907628" id="testimonials-cta-btn" className="btn-yellow font-bold px-10 py-4 text-base">
-              Join 500+ Happy Clients — Call Now
+              Join 500+ Happy Clients - Call Now
             </a>
           </div>
         </div>
@@ -638,7 +638,7 @@ export default function HomePage() {
         <div className="max-w-5xl mx-auto px-4 sm:px-6 text-center">
           <p className="text-brand-green-dark font-semibold mb-3 uppercase text-sm tracking-widest">Part of Pestraid Kenya Group</p>
           <h2 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-3 font-display">
-            Complete Property Care — Our Sister Companies
+            Complete Property Care - Our Sister Companies
           </h2>
           <p className="text-gray-500 mb-10 max-w-2xl mx-auto text-sm leading-relaxed">
             Beyond cleaning, Pestraid Kenya Group offers comprehensive property protection services.

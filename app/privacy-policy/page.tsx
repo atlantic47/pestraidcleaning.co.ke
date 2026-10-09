@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Privacy Policy | Pestraid Cleaning Kenya",
-  description: "Privacy Policy for Pestraid Cleaning Kenya — how we collect, use, and protect your personal data.",
+  description: "Privacy Policy for Pestraid Cleaning Kenya - how we collect, use, and protect your personal data.",
 };
 
 export default function PrivacyPolicyPage() {

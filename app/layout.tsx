@@ -28,7 +28,7 @@ export const metadata: Metadata = {
 
   /* ── Description ── */
   description:
-    "Pestraid Cleaning Kenya offers professional cleaning services across Nairobi — home cleaning, office cleaning, carpet & sofa cleaning, post-construction cleaning and deep cleaning. Part of Pestraid Kenya Group. Call 0710907628 for a free quote!",
+    "Pestraid Cleaning Kenya offers professional cleaning services across Nairobi - home cleaning, office cleaning, carpet & sofa cleaning, post-construction cleaning and deep cleaning. Part of Pestraid Kenya Group. Call 0710907628 for a free quote!",
 
   /* ── Keywords ── */
   keywords: [
@@ -100,13 +100,13 @@ export const metadata: Metadata = {
     siteName: "Pestraid Cleaning Kenya",
     title: "Pestraid Cleaning Kenya | Professional Cleaning Services Nairobi",
     description:
-      "Professional cleaning services in Nairobi — home, office, carpet & post-construction cleaning. Part of Pestraid Kenya Group. Call 0710 907 628.",
+      "Professional cleaning services in Nairobi - home, office, carpet & post-construction cleaning. Part of Pestraid Kenya Group. Call 0710 907 628.",
     images: [
       {
         url: "https://pestraidcleaning.co.ke/hero-banner.jpg",
         width: 1200,
         height: 630,
-        alt: "Pestraid Cleaning Kenya — Professional Cleaning Services Nairobi",
+        alt: "Pestraid Cleaning Kenya - Professional Cleaning Services Nairobi",
         type: "image/jpeg",
       },
     ],
@@ -155,7 +155,7 @@ export default function RootLayout({
               "@id": "https://pestraidcleaning.co.ke/#business",
               name: "Pestraid Cleaning Kenya",
               description:
-                "Professional cleaning services in Nairobi, Kenya — home cleaning, office cleaning, carpet cleaning, sofa cleaning, deep cleaning, and post-construction cleaning. Part of Pestraid Kenya Group.",
+                "Professional cleaning services in Nairobi, Kenya - home cleaning, office cleaning, carpet cleaning, sofa cleaning, deep cleaning, and post-construction cleaning. Part of Pestraid Kenya Group.",
               url: "https://pestraidcleaning.co.ke",
               logo: "https://pestraidcleaning.co.ke/logo-pestraid.png",
               image: "https://pestraidcleaning.co.ke/hero-banner.jpg",

@@ -52,22 +52,22 @@ For active households with children or pets, we recommend a thorough weekly clea
 ### Monthly Professional Cleaning
 
 Once a month, bring in the professionals for tasks that require specialist equipment and expertise:
-- **Carpet and sofa deep cleaning** – Nairobi's dust penetrates deep into fibres
-- **Kitchen appliance interior cleaning** – oven, fridge, and microwave
+- **Carpet and sofa deep cleaning** - Nairobi's dust penetrates deep into fibres
+- **Kitchen appliance interior cleaning** - oven, fridge, and microwave
 - **Bathroom grout and tile scrubbing**
 - **Window cleaning** (interior and exterior)
 - **Mattress sanitization**
 
-Our [professional home cleaning service](https://pestraidcleaning.co.ke/services#home-cleaning) is designed to complement your daily routine — we handle the hard work so you don't have to.
+Our [professional home cleaning service](https://pestraidcleaning.co.ke/services#home-cleaning) is designed to complement your daily routine - we handle the hard work so you don't have to.
 
 ### Why Nairobi Homes Need More Frequent Cleaning
 
 Nairobi's environment presents specific challenges:
 
-1. **High dust levels** – Construction activity across the city, combined with dry seasons, means significantly more airborne dust than in rural areas
-2. **Air pollution** – Vehicle emissions and industrial activity deposit particulates on surfaces
-3. **Humidity** – During rainy seasons, humidity encourages mould and mildew growth
-4. **Pest activity** – Dust and food residue attract ants, cockroaches and rodents. For pest issues, our sister company [Pestraid Kenya](https://pestraid.co.ke/) provides expert pest control services
+1. **High dust levels** - Construction activity across the city, combined with dry seasons, means significantly more airborne dust than in rural areas
+2. **Air pollution** - Vehicle emissions and industrial activity deposit particulates on surfaces
+3. **Humidity** - During rainy seasons, humidity encourages mould and mildew growth
+4. **Pest activity** - Dust and food residue attract ants, cockroaches and rodents. For pest issues, our sister company [Pestraid Kenya](https://pestraid.co.ke/) provides expert pest control services
 
 ### The 3-Month Deep Clean
 
@@ -93,14 +93,14 @@ Pestraid Cleaning Kenya serves homes across all Nairobi neighbourhoods including
 
 **Call us on 0710 907 628** or [contact us online](https://pestraidcleaning.co.ke/contact) for a free, no-obligation quote tailored to your home.
 
-For complete property care — cleaning plus pest control — speak to our parent company [Pestraid Kenya](https://pestraid.co.ke/) or our termite specialists at [Termites Control Services](https://www.termitescontrolservices.co.ke/).
+For complete property care - cleaning plus pest control - speak to our parent company [Pestraid Kenya](https://pestraid.co.ke/) or our termite specialists at [Termites Control Services](https://www.termitescontrolservices.co.ke/).
     `,
   },
   {
     slug: "benefits-professional-office-cleaning-nairobi-business",
     title: "5 Business Benefits of Professional Office Cleaning in Nairobi",
     excerpt:
-      "A clean office is more than aesthetics — it directly impacts productivity, employee health, and client impressions. Discover why Nairobi businesses are investing in professional cleaning.",
+      "A clean office is more than aesthetics - it directly impacts productivity, employee health, and client impressions. Discover why Nairobi businesses are investing in professional cleaning.",
     category: "Office Cleaning",
     date: "2026-09-20",
     readTime: "6 min read",
@@ -125,7 +125,7 @@ In Nairobi's office environment:
 - **Organized spaces** help employees focus better
 - **Fresh environments** boost morale and reduce stress
 
-Our [professional office cleaning services](https://pestraidcleaning.co.ke/services#office-cleaning) include all high-touch surfaces — door handles, keyboards, phones, and shared equipment — that are hotspots for germ transmission.
+Our [professional office cleaning services](https://pestraidcleaning.co.ke/services#office-cleaning) include all high-touch surfaces - door handles, keyboards, phones, and shared equipment - that are hotspots for germ transmission.
 
 ### 2. Leave Lasting Client Impressions
 
@@ -135,7 +135,7 @@ First impressions happen in seconds. When a client walks into your Nairobi offic
 - **Spotless bathrooms** show you care about every aspect of your business
 - **Fresh air** (no musty smells) suggests a well-maintained operation
 
-Clients — especially international visitors and investors — judge the quality of your business partly by the cleanliness of your premises.
+Clients - especially international visitors and investors - judge the quality of your business partly by the cleanliness of your premises.
 
 ### 3. Protect Your Office Equipment Investment
 
@@ -166,10 +166,10 @@ When employees spend time cleaning, they're not doing the jobs you hired them fo
 ### Why Choose Pestraid Cleaning Kenya for Your Office?
 
 We specialize in commercial office cleaning across all Nairobi business districts:
-- **We clean after hours** – zero disruption to your workday
-- **Trained uniformed staff** – vetted and professional
-- **Flexible contracts** – daily, weekly, or monthly
-- **Comprehensive service** – from floors to air vents
+- **We clean after hours** - zero disruption to your workday
+- **Trained uniformed staff** - vetted and professional
+- **Flexible contracts** - daily, weekly, or monthly
+- **Comprehensive service** - from floors to air vents
 
 If you also have pest concerns in your office space, our sister company [Pestraid Kenya](https://pestraid.co.ke/) provides professional pest control for commercial premises. For termite issues in older buildings, contact [Termites Control Services](https://www.termitescontrolservices.co.ke/).
 
@@ -200,13 +200,13 @@ This guide covers everything you need to know about keeping your carpets clean, 
 Several factors make carpet cleaning particularly important in Nairobi:
 
 **1. Red Earth Dust**
-Nairobi sits on red laterite soil. During dry seasons, this fine red dust becomes airborne and settles deep into carpet fibres. Standard vacuuming only removes surface dust — professional extraction is needed to remove embedded soil.
+Nairobi sits on red laterite soil. During dry seasons, this fine red dust becomes airborne and settles deep into carpet fibres. Standard vacuuming only removes surface dust - professional extraction is needed to remove embedded soil.
 
 **2. Rain Tracking**
 During Nairobi's two rainy seasons (March-May and October-December), shoes track in mud, water, and organic matter that promotes bacterial growth in carpets.
 
 **3. High Traffic**
-Most Nairobi households have significant foot traffic, with helpers, children, and frequent visitors — all contributing to faster carpet soiling.
+Most Nairobi households have significant foot traffic, with helpers, children, and frequent visitors - all contributing to faster carpet soiling.
 
 **4. Pest Issues**
 Dirty carpets attract dust mites, fleas, and other insects. If you're experiencing pest issues alongside dirty carpets, [Pestraid Kenya](https://pestraid.co.ke/) can handle the pest side while we tackle the deep cleaning.
@@ -255,7 +255,7 @@ Essential for maintenance but insufficient as a sole cleaning method. Vacuum:
 
 ### Carpet Stain Emergency Tips (While You Wait for Professionals)
 
-**Act immediately** — the longer a stain sits, the harder it is to remove.
+**Act immediately** - the longer a stain sits, the harder it is to remove.
 
 For liquid spills:
 1. Blot (don't rub) with a clean white cloth
@@ -283,14 +283,14 @@ At Pestraid Cleaning Kenya, we provide transparent quotes with no hidden charges
 
 Our [carpet cleaning service](https://pestraidcleaning.co.ke/services#carpet-cleaning) covers all Nairobi areas. We use professional-grade hot water extraction equipment and eco-friendly cleaning solutions safe for children, pets, and the environment.
 
-For complete home care — including pest control for insects that live in carpets — check out our sister company [Pestraid Kenya](https://pestraid.co.ke/).
+For complete home care - including pest control for insects that live in carpets - check out our sister company [Pestraid Kenya](https://pestraid.co.ke/).
     `,
   },
   {
     slug: "post-construction-cleaning-nairobi-checklist",
     title: "Post-Construction Cleaning in Nairobi: Complete Checklist Guide",
     excerpt:
-      "Just finished building or renovating in Nairobi? Here's the definitive checklist for post-construction cleaning — what needs to be done and why you should hire professionals.",
+      "Just finished building or renovating in Nairobi? Here's the definitive checklist for post-construction cleaning - what needs to be done and why you should hire professionals.",
     category: "Construction Cleaning",
     date: "2026-08-28",
     readTime: "8 min read",
@@ -309,10 +309,10 @@ Construction sites leave behind a staggering amount of dust, debris, chemical re
 
 Post-construction cleaning is fundamentally different from regular cleaning:
 
-- **Scale of dust** – Construction generates 100x more fine dust particles than normal occupation
-- **Chemical hazards** – Paint, adhesives, solvents, and curing compounds require specialist handling
-- **Physical debris** – Nails, screws, splinters, and sharp materials pose safety risks
-- **Specialist equipment** – Industrial vacuums with HEPA filters, commercial floor scrubbers, and water-fed window cleaning poles are required
+- **Scale of dust** - Construction generates 100x more fine dust particles than normal occupation
+- **Chemical hazards** - Paint, adhesives, solvents, and curing compounds require specialist handling
+- **Physical debris** - Nails, screws, splinters, and sharp materials pose safety risks
+- **Specialist equipment** - Industrial vacuums with HEPA filters, commercial floor scrubbers, and water-fed window cleaning poles are required
 
 ### The Three Phases of Post-Construction Cleaning
 
@@ -326,7 +326,7 @@ Professional post-construction cleaning happens in three distinct phases:
 **Phase 2: Main Clean (After Construction is Complete)**
 This is the intensive phase. Our [post-construction cleaning team](https://pestraidcleaning.co.ke/services#construction-cleaning) handles:
 - Deep vacuuming with HEPA-filter machines
-- Washing all surfaces — walls, ceilings, fixtures
+- Washing all surfaces - walls, ceilings, fixtures
 - Window cleaning (removing stickers, paint, adhesive residue)
 - Floor scrubbing and polishing
 - Sanitizing all bathrooms and kitchens
@@ -378,7 +378,7 @@ This is the intensive phase. Our [post-construction cleaning team](https://pestr
 ### Common Mistakes in Post-Construction Cleaning
 
 **1. Using the wrong cleaning agents**
-Many construction residues — like cement haze on tiles — require specialist acidic cleaners. Using the wrong product can damage expensive finishes.
+Many construction residues - like cement haze on tiles - require specialist acidic cleaners. Using the wrong product can damage expensive finishes.
 
 **2. Not protecting finished surfaces**
 During cleaning, finished surfaces like marble and polished tiles need protection from cleaning chemicals and abrasives.
@@ -391,7 +391,7 @@ Post-construction cleaning takes time. For a standard 3-bedroom home, profession
 
 ### When to Book Post-Construction Cleaning
 
-Book your cleaning team for **the day after the last tradespeople leave** — before any furniture or finishings are moved in. This allows:
+Book your cleaning team for **the day after the last tradespeople leave** - before any furniture or finishings are moved in. This allows:
 - Unrestricted access to all surfaces
 - No risk of damaging new furniture or belongings
 - Maximum efficiency for the cleaning team
@@ -403,7 +403,7 @@ For large commercial projects, coordinate with your project manager to schedule 
 New buildings can attract pests during and after construction. Rodents, cockroaches, and termites are common in newly built structures. Before moving in:
 
 - Have a pest inspection done by [Pestraid Kenya](https://pestraid.co.ke/)
-- Check for termite activity, especially in wooden structures — [Termites Control Services](https://www.termitescontrolservices.co.ke/) specialises in this
+- Check for termite activity, especially in wooden structures - [Termites Control Services](https://www.termitescontrolservices.co.ke/) specialises in this
 - Treat as necessary before occupation
 
 ### Get a Quote for Post-Construction Cleaning in Nairobi
@@ -423,7 +423,7 @@ We serve all Nairobi areas and provide same-week scheduling for completed constr
   },
   {
     slug: "eco-friendly-cleaning-products-kenya",
-    title: "Why We Use Eco-Friendly Cleaning Products — And Why It Matters",
+    title: "Why We Use Eco-Friendly Cleaning Products - And Why It Matters",
     excerpt:
       "At Pestraid Cleaning Kenya, we've made the switch to eco-friendly, non-toxic cleaning products. Here's why this matters for your family, your pets, and the environment.",
     category: "Eco Cleaning",
@@ -434,47 +434,47 @@ We serve all Nairobi areas and provide same-week scheduling for completed constr
     image: "/home-cleaning.jpg",
     tags: ["eco-friendly", "green cleaning", "non-toxic", "Kenya", "environment"],
     content: `
-## Why We Use Eco-Friendly Cleaning Products — And Why It Matters
+## Why We Use Eco-Friendly Cleaning Products - And Why It Matters
 
-When Pestraid Cleaning Kenya was founded, one of our founding principles was clear: **we would never use harsh, toxic cleaning chemicals in our clients' homes and offices**. This wasn't just a marketing position — it was a genuine commitment to the wellbeing of our clients, their families, and the Kenyan environment.
+When Pestraid Cleaning Kenya was founded, one of our founding principles was clear: **we would never use harsh, toxic cleaning chemicals in our clients' homes and offices**. This wasn't just a marketing position - it was a genuine commitment to the wellbeing of our clients, their families, and the Kenyan environment.
 
-Here's why eco-friendly cleaning matters — and how we put it into practice.
+Here's why eco-friendly cleaning matters - and how we put it into practice.
 
 ### The Problem with Conventional Cleaning Chemicals
 
-Many cleaning products on the market — including popular brands widely available in Nairobi supermarkets — contain:
+Many cleaning products on the market - including popular brands widely available in Nairobi supermarkets - contain:
 
-- **VOCs (Volatile Organic Compounds)** – These evaporate at room temperature and cause headaches, dizziness, and long-term respiratory damage
-- **Phosphates** – Contribute to water pollution when they enter Nairobi's drainage systems
-- **Bleach and chlorine compounds** – Toxic when inhaled and damaging to sensitive skin
-- **Formaldehyde** – A known carcinogen found in some floor cleaners and disinfectants
-- **Ammonia** – Causes respiratory irritation and is dangerous mixed with bleach
+- **VOCs (Volatile Organic Compounds)** - These evaporate at room temperature and cause headaches, dizziness, and long-term respiratory damage
+- **Phosphates** - Contribute to water pollution when they enter Nairobi's drainage systems
+- **Bleach and chlorine compounds** - Toxic when inhaled and damaging to sensitive skin
+- **Formaldehyde** - A known carcinogen found in some floor cleaners and disinfectants
+- **Ammonia** - Causes respiratory irritation and is dangerous mixed with bleach
 
-These chemicals don't just disappear after cleaning — they linger on surfaces, in the air, and in the water supply.
+These chemicals don't just disappear after cleaning - they linger on surfaces, in the air, and in the water supply.
 
 ### Who's Most at Risk?
 
 The people most vulnerable to harsh cleaning chemical exposure are exactly the people you want to protect:
 
-- **Young children** – Who crawl on floors and put hands in mouths
-- **Pets** – Who walk on cleaned floors and lick their paws
-- **Pregnant women** – Whose developing babies are sensitive to chemical exposure
-- **Elderly family members** – Who may have compromised respiratory systems
-- **People with asthma or allergies** – Who react more severely to chemical irritants
+- **Young children** - Who crawl on floors and put hands in mouths
+- **Pets** - Who walk on cleaned floors and lick their paws
+- **Pregnant women** - Whose developing babies are sensitive to chemical exposure
+- **Elderly family members** - Who may have compromised respiratory systems
+- **People with asthma or allergies** - Who react more severely to chemical irritants
 
 ### What We Use Instead
 
 At Pestraid Cleaning Kenya, we use a range of eco-certified, biodegradable cleaning products that are:
 
-✅ **Plant-based** – Derived from natural sources rather than petroleum
-✅ **Biodegradable** – Break down harmlessly in the environment
-✅ **pH-balanced** – Safe for surfaces and skin contact
-✅ **Fragrance-free or naturally scented** – Using essential oils rather than synthetic fragrances
-✅ **Certified non-toxic** – Safe if accidentally ingested by children or pets
+✅ **Plant-based** - Derived from natural sources rather than petroleum
+✅ **Biodegradable** - Break down harmlessly in the environment
+✅ **pH-balanced** - Safe for surfaces and skin contact
+✅ **Fragrance-free or naturally scented** - Using essential oils rather than synthetic fragrances
+✅ **Certified non-toxic** - Safe if accidentally ingested by children or pets
 
 We also use **microfibre cloths and mops** which require 90% less cleaning solution than traditional methods while achieving superior results.
 
-### Eco-Cleaning Works Just as Well — Often Better
+### Eco-Cleaning Works Just as Well - Often Better
 
 A common misconception is that eco-friendly products are less effective. In practice, professional-grade eco-cleaning:
 - Kills 99.9% of bacteria and viruses
@@ -482,15 +482,15 @@ A common misconception is that eco-friendly products are less effective. In prac
 - Deodorizes naturally without masking smells with chemicals
 - Leaves surfaces cleaner for longer (no residue buildup)
 
-The key is using the **right product for the right surface** — something our trained cleaning teams are expert in.
+The key is using the **right product for the right surface** - something our trained cleaning teams are expert in.
 
 ### Our Contribution to a Cleaner Kenya
 
 Beyond protecting your home, eco-cleaning contributes to:
 
-- **Protecting Nairobi's water sources** – Fewer harmful chemicals entering the drainage system and ultimately Nairobi River and other waterways
-- **Reducing plastic waste** – We use concentrated refillable products where possible
-- **Supporting local eco-product suppliers** – Where available, we source locally produced eco-friendly products
+- **Protecting Nairobi's water sources** - Fewer harmful chemicals entering the drainage system and ultimately Nairobi River and other waterways
+- **Reducing plastic waste** - We use concentrated refillable products where possible
+- **Supporting local eco-product suppliers** - Where available, we source locally produced eco-friendly products
 
 ### Making the Switch for Your Home
 
@@ -502,13 +502,13 @@ You can complement our professional eco-cleaning with simple DIY eco-friendly pr
 
 ### Book an Eco-Friendly Clean Today
 
-All Pestraid Cleaning Kenya services — from [home cleaning](https://pestraidcleaning.co.ke/services#home-cleaning) to [office cleaning](https://pestraidcleaning.co.ke/services#office-cleaning) — use our eco-friendly product range as standard.
+All Pestraid Cleaning Kenya services - from [home cleaning](https://pestraidcleaning.co.ke/services#home-cleaning) to [office cleaning](https://pestraidcleaning.co.ke/services#office-cleaning) - use our eco-friendly product range as standard.
 
 **No extra charge. Same great results. Better for everyone.**
 
 📞 **Call 0710 907 628** or [get in touch online](https://pestraidcleaning.co.ke/contact).
 
-For pest control that's also environmentally responsible, check out our sister company [Pestraid Kenya](https://pestraid.co.ke/) — they also prioritize safe, targeted pest treatments.
+For pest control that's also environmentally responsible, check out our sister company [Pestraid Kenya](https://pestraid.co.ke/) - they also prioritize safe, targeted pest treatments.
     `,
   },
   {
@@ -526,7 +526,7 @@ For pest control that's also environmentally responsible, check out our sister c
     content: `
 ## 6 Essential Cleaning Tips for Nairobi's Rainy Season
 
-October marks the start of Nairobi's short rains — a season that brings welcome relief from the dry heat but also introduces a host of cleaning challenges. Mud at the doorstep, mould in bathrooms, wet carpets, and increased pest activity all become concerns.
+October marks the start of Nairobi's short rains - a season that brings welcome relief from the dry heat but also introduces a host of cleaning challenges. Mud at the doorstep, mould in bathrooms, wet carpets, and increased pest activity all become concerns.
 
 As cleaning experts serving Nairobi since 2018, our team at Pestraid Cleaning Kenya has seen it all. Here are our top tips for keeping your home clean and hygienic during the rainy season.
 
@@ -538,11 +538,11 @@ The rainy season turns Nairobi's soil into red-brown mud that tracks through you
 - **Indoor mat**: An absorbent indoor mat just inside the door for final moisture absorption
 - **Shoe rack**: Encourage removal of outdoor shoes at the door during wet weather
 
-Replace or clean mats frequently during peak rains — a saturated mat transfers more dirt than it collects.
+Replace or clean mats frequently during peak rains - a saturated mat transfers more dirt than it collects.
 
 ### Tip 2: Tackle Mould Before It Spreads
 
-Nairobi's rainy season creates perfect conditions for mould growth: higher humidity, less ventilation, and more moisture. Mould is not just unsightly — it's a serious respiratory health hazard.
+Nairobi's rainy season creates perfect conditions for mould growth: higher humidity, less ventilation, and more moisture. Mould is not just unsightly - it's a serious respiratory health hazard.
 
 **Early warning signs to watch for:**
 - Black or green spots in bathroom grout lines
@@ -563,17 +563,17 @@ Carpets are the biggest casualty of rainy season in Nairobi homes. Wet shoes, tr
 
 **Daily maintenance:**
 - Vacuum more frequently (every 1-2 days in high-traffic areas)
-- Address spills and mud immediately — don't let them dry in
+- Address spills and mud immediately - don't let them dry in
 - Lift smaller rugs and allow them to dry completely if they get wet
 
 **Professional cleaning:**
-The rainy season is actually the best time to book a professional carpet clean — our [steam cleaning service](https://pestraidcleaning.co.ke/services#carpet-cleaning) removes all the accumulated mud and bacteria that rainy season brings.
+The rainy season is actually the best time to book a professional carpet clean - our [steam cleaning service](https://pestraidcleaning.co.ke/services#carpet-cleaning) removes all the accumulated mud and bacteria that rainy season brings.
 
 ### Tip 4: Increase Kitchen Hygiene
 
 Rain and humidity encourage bacteria and mould growth in kitchens. Increased pest activity (cockroaches and ants become more active during rains) means kitchen hygiene is critical.
 
-- Clean under the sink area — leaks are common during heavy rains
+- Clean under the sink area - leaks are common during heavy rains
 - Wipe down all surfaces daily with a disinfectant
 - Ensure all food is sealed in airtight containers
 - Check for any water ingress around windows and doors
@@ -606,7 +606,7 @@ Our post-rains deep cleaning service covers:
 
 Don't let Nairobi's rains turn your home into a cleaning battle. With the right daily habits and professional support from Pestraid Cleaning Kenya, you can keep your home spotless throughout October and beyond.
 
-**📞 Call us on 0710 907 628** or [request a free quote online](https://pestraidcleaning.co.ke/contact) — we offer flexible scheduling to suit your rainy season needs.
+**📞 Call us on 0710 907 628** or [request a free quote online](https://pestraidcleaning.co.ke/contact) - we offer flexible scheduling to suit your rainy season needs.
 
 For pest control during the rains, contact [Pestraid Kenya](https://pestraid.co.ke/).
     `,
@@ -885,7 +885,7 @@ Property owners looking specifically into this area can visit [Termite Control S
 
 Preventive termite treatment is intended to reduce the risk of termite attack after a building is completed. Timing, site preparation and the selection of an appropriate treatment are important considerations.
 
-Developers should discuss the proposed approach with a suitably qualified provider — such as [Pestraid Kenya](https://pestraid.co.ke/) — before the relevant construction stage passes.
+Developers should discuss the proposed approach with a suitably qualified provider - such as [Pestraid Kenya](https://pestraid.co.ke/) - before the relevant construction stage passes.
 
 ## Five Questions to Ask Before Hiring a Pest Control Company
 
@@ -944,7 +944,7 @@ The most effective choice is ultimately a provider that understands the infestat
 
 ---
 
-*Pestraid Cleaning Kenya provides professional cleaning services across Nairobi — including post-construction cleaning, deep cleaning, office cleaning and carpet cleaning. For a spotless space before or after pest treatment, [contact our team](https://pestraidcleaning.co.ke/contact) for a free quote.*
+*Pestraid Cleaning Kenya provides professional cleaning services across Nairobi - including post-construction cleaning, deep cleaning, office cleaning and carpet cleaning. For a spotless space before or after pest treatment, [contact our team](https://pestraidcleaning.co.ke/contact) for a free quote.*
     `,
   },
 ];

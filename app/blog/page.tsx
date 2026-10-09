@@ -149,7 +149,7 @@ export default function BlogPage() {
             Need a Professional Clean in Nairobi?
           </h2>
           <p className="text-green-200 mb-8 max-w-lg mx-auto">
-            Don't just read about clean spaces — experience one! Book Pestraid
+            Don't just read about clean spaces - experience one! Book Pestraid
             Cleaning Kenya for your home or office today.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

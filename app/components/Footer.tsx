@@ -78,7 +78,7 @@ export default function Footer() {
           {/* Brand Column */}
           <div className="lg:col-span-1">
             <Link href="/" id="footer-logo" className="inline-flex mb-5">
-              {/* Logo inverted white — footer is dark so we use CSS filter */}
+              {/* Logo inverted white - footer is dark so we use CSS filter */}
               <Image
                 src="/logo-pestraid.png"
                 alt="Pestraid Cleaning Kenya"
