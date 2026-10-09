@@ -8,6 +8,8 @@ type Props = {
   params: Promise<{ slug: string }>;
 };
 
+export const instant = false;
+
 export async function generateStaticParams() {
   return blogPosts.map((post) => ({ slug: post.slug }));
 }
@@ -199,6 +201,7 @@ export default async function BlogPostPage({ params }: Props) {
             alt={post.title}
             fill
             priority
+            sizes="100vw"
             className="object-cover"
           />
           <div
@@ -391,6 +394,7 @@ export default async function BlogPostPage({ params }: Props) {
                       src={relPost.image}
                       alt={relPost.title}
                       fill
+                      sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                       className="object-cover group-hover:scale-105 transition-transform duration-500"
                     />
                   </div>
