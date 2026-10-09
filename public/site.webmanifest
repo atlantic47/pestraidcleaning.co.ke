@@ -1,0 +1,26 @@
+{
+  "name": "Pestraid Cleaning Kenya",
+  "short_name": "Pestraid Cleaning",
+  "description": "Professional cleaning services in Nairobi, Kenya — home, office, carpet & post-construction cleaning.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1b5e20",
+  "theme_color": "#2e7d32",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "utilities"],
+  "lang": "en-KE",
+  "orientation": "portrait-primary"
+}
